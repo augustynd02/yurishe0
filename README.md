@@ -4,6 +4,6 @@
 
 > Aspiring web developer.
 
-> Currently in progress of the AppAcademy Open Bootcamp.
+> Currently in progress of completing The Odin Project.
 
 
